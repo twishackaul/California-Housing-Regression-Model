@@ -1,1 +1,1 @@
-# California-Housing-Regression-Model
+# California Housing Regression Model
